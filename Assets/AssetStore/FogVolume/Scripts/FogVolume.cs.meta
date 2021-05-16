@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 5e7a52d786954b246ab3797052502655
+timeCreated: 1503131861
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ShadowCaster: {instanceID: 0}
+  - _PerformanceLUT: {fileID: 2800000, guid: f651c771afb96204b85e925622f5e2b9, type: 3}
+  - Sun: {instanceID: 0}
+  - _LightHaloTexture: {fileID: 2800000, guid: fa2064f3c8dffc04f93f4f74eae0d72f, type: 3}
+  - CoverageTex: {instanceID: 0}
+  - GameCameraGO: {instanceID: 0}
+  - _NoiseVolume2: {fileID: 11700000, guid: ce515a5a715cb574eb40037cfb1ab766, type: 2}
+  - _NoiseVolume: {fileID: 11700000, guid: ce515a5a715cb574eb40037cfb1ab766, type: 2}
+  - FogRenderer: {instanceID: 0}
+  - Gradient: {fileID: 2800000, guid: 132bd45e1d3746f4ba36d53d9e19b1c9, type: 3}
+  - RT_Opacity: {instanceID: 0}
+  - RT_OpacityBlur: {instanceID: 0}
+  - ShadowCameraGO: {instanceID: 0}
+  - _ShadowCamera: {instanceID: 0}
+  - FogVolumeShader: {fileID: 4800000, guid: 6040e6c91df9d9d47b7e5426d41a7471, type: 3}
+  - ShadowProjector: {instanceID: 0}
+  - ShadowProjectorMesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 925eb9f7b0e73dd438a616124964bba8, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

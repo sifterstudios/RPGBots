@@ -1,0 +1,5 @@
+## ATG_URP_7.1.7_Support unitypackage
+
+This package contains the ATG URP shaders tweaked for Unity 2019.3.0f5 and URP 7.1.7. Importing it will add URP compatible shaders, materials and a new "02 Full Demo URP" scene.
+
+Please note that Unity 2019.3 is still in preview just like the URP port of ATG.

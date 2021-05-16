@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: OceanSceneWaterPlane
+  m_Shader: {fileID: 4800000, guid: 9e74d9a67207cc141afbd71d342fed8f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _GlossMap
+      second:
+        m_Texture: {fileID: 2800000, guid: b8f57fc65bfd38c4c885f12a379d571a, type: 3}
+        m_Scale: {x: 30, y: 30}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _Layers
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalMapblendmask
+      second:
+        m_Texture: {fileID: 2800000, guid: ba0f32e174350fd42841b63ed05210b0, type: 3}
+        m_Scale: {x: 2000, y: 2000}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_2312
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_4819
+      second:
+        m_Texture: {fileID: 2800000, guid: 09b1fec42d546e646926cc022f929d9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_9650
+      second:
+        m_Texture: {fileID: 2800000, guid: ba0f32e174350fd42841b63ed05210b0, type: 3}
+        m_Scale: {x: 20, y: 20}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Backcatterpow
+      second: 2.2
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _Fadedistance
+      second: 50000
+    - first:
+        name: _Gloss
+      second: 0.727
+    - first:
+        name: _Inscatterpow
+      second: 11.6
+    - first:
+        name: _MIPS
+      second: 7168
+    - first:
+        name: _Normal
+      second: 0.153
+    - first:
+        name: _Normalfadedist
+      second: 6448
+    - first:
+        name: _Pan
+      second: 0.284
+    - first:
+        name: _Scale
+      second: 67
+    - first:
+        name: _Specular
+      second: 0.597
+    m_Colors:
+    - first:
+        name: _BackNormals
+      second: {r: 0.0227076, g: 0.5684106, b: 0.6176471, a: 1}
+    - first:
+        name: _Backcatter
+      second: {r: 0.08883001, g: 0.37725568, b: 0.3897059, a: 1}
+    - first:
+        name: _Color
+      second: {r: 0.08477509, g: 0.13572367, b: 0.20588237, a: 1}
+    - first:
+        name: _Farcolor
+      second: {r: 0.8041739, g: 0.9100356, b: 0.9852941, a: 1}
+    - first:
+        name: _Inscatter
+      second: {r: 0.0227076, g: 0.5684106, b: 0.6176471, a: 1}
+    - first:
+        name: _NormalMult
+      second: {r: 1, g: 0.14099991, b: 0.122, a: 1}

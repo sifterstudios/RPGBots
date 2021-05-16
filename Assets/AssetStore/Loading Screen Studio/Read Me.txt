@@ -1,0 +1,12 @@
+Loading Screen Studio - v1.0.4
+
+Import TextMesh Pro and its essentials from Package Manager if you haven't already!
+
+Contact me via:
+E-mail: support@michsky.com
+Website: https://www.michsky.com
+Discord: https://discord.gg/VXpHyUt
+YouTube: https://www.youtube.com/c/michsky
+Steam: https://steamcommunity.com/id/geezjesus
+Reddit: https://www.reddit.com/user/michsky
+Unity Connect: https://connect.unity.com/u/isa-kocak

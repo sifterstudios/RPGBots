@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90a0ecd4363b0a547a4c174b9a95dd5d
+timeCreated: 1499495303
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _TargetFogVolume: {instanceID: 0}
+  - FogVolumeMaterial: {instanceID: 0}
+  - ShadowCamera: {instanceID: 0}
+  - outputDepth: {fileID: 4800000, guid: 4fc2932190d974a4887533f0e52baf6c, type: 3}
+  - GOShadowCamera: {instanceID: 0}
+  - DebugViewMaterial: {fileID: 2100000, guid: 92dc32887d2555f469466609a34e858c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
